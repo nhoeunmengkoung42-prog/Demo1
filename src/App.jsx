@@ -1,7 +1,7 @@
 import Header from "./components/Header"
 import Footer from "./components/Footer"
 import Product from "./components/Product"
-import { courses } from "./data/courses"
+import { courses } from "./data/Courses"
 
 
 function App() {
